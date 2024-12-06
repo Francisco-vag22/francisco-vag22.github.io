@@ -1,0 +1,42 @@
+---
+format: 
+  html:
+    theme: Yeti
+editor: visual
+---
+
+![](hola.png){width=400%}
+
+## Javier Parada
+
+Como parte del “Ciclo de Actualización de la Información Económica”, el INEGI actualizó la Canasta y la Estructura de ponderación del Índice Nacional de Precios al Consumidor (INPC) con base en le información de la ENIGH Estacional 2022, manteniendo la base (INPC=100) en la segunda quincena de julio de 2018; aplicando la metodología de encadenamiento de las series.
+
+El INPC mide la variación de los precios de una canasta de bienes y servicios representativa del consumo de los hogares mexicanos. En esta página encontrarás las cifras con las respectivas actualizaciones y el detalle de las mejoras que con este proceso se han implementado.
+
+
+<iframe src="treemap_inpc_mensual.html" width="100%" height="500" style="border:none;"></iframe>
+
+
+## Por otra parte
+
+<iframe src="treemap_inpc_anual.html" width="100%" height="500" style="border:none;"></iframe>
+
+
+
+hola
+
+
+<div class="slideshow-preview"><div class="flourish-embed" data-src="story/1768225" style=""><iframe scrolling="no" frameborder="0" title="Interactive or visual content" sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" src="https://flo.uri.sh/story/1768225/embed?auto=1" style="width: 100%; height: 668px;"></iframe><div class="flourish-credit" style="width:100%!important;margin:0 0 4px!important;text-align:right!important;font-family:Helvetica,sans-serif!important;color:#888!important;font-size:11px!important;font-weight:bold!important;font-style:normal!important;-webkit-font-smoothing:antialiased!important;box-shadow:none!important;"><a href="https://flourish.studio/?utm_source=showcase&amp;utm_campaign=story/1768225" target="_top" style="display:inline-block!important;text-decoration:none!important;font:inherit!important;color:inherit!important;border:none!important;margin:0 5px!important;box-shadow:none!important;"><img alt="Flourish logo" src="https://public.flourish.studio/resources/bosh.svg" style="font:inherit!important;width:auto!important;height:12px!important;border:none!important;margin:0 2px 0!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;"><span style="font:inherit!important;color:#888!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;">A Flourish data visualization</span></a></div></div><script src="https://public.flourish.studio/resources/embed.js" data-ot-ignore="" type="text/javascript"></script></div>
+
+
+
+# DiagrammeR("
+#   graph LR
+#     A-->B
+#     A-->C
+#     C-->E
+#     B-->D
+#     C-->D
+#     D-->F
+#     E-->F
+# ")
